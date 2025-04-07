@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        PCPP Filters Search
 // @namespace   Violentmonkey Scripts
-// @match       https://*pcpartpicker.com/products/*
-// @match       https://*pcpartpicker.com/builds/*
+// @include     /https:\/\/([a-z]+\.)?pcpartpicker.com\/products\//
+// @include     /https:\/\/([a-z]+\.)?pcpartpicker.com\/builds\//
 // @grant       none
 // @version     1.0
 // @author      RyanHx
